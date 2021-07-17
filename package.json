@@ -1,6 +1,6 @@
 {
   "name": "@faizmaricar/create-bbwp-app",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "A barebones webpack project generator.",
   "main": "src/index.js",
   "scripts": {
