@@ -1,5 +1,5 @@
 {
-  "name": "@faizmaricar/create-bbwp-app",
+  "name": "create-bbwp-app",
   "version": "1.0.0",
   "description": "A barebones webpack project generator.",
   "main": "src/index.js",
@@ -16,7 +16,6 @@
   "author": "Faiz Maricar",
   "license": "ISC",
   "bin": {
-    "@faizmaricar/create-bbwp-app": "bin/create-bbwp-app",
     "create-bbwp-app": "bin/create-bbwp-app"
   },
   "dependencies": {
